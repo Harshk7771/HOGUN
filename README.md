@@ -25,7 +25,7 @@ Web$cr@@per is a Python-based web scraping tool designed to perform various web 
 
 1. **Clone the repository:**
 2. 
-   git clone 
+   git clone https://github.com/Harshk7771/Webscrapper
    cd webscraper
 
     Install the required packages:

@@ -1,0 +1,36 @@
+{
+    "Whois Info": {
+        "domain_name": [
+            "TRYHACKME.COM",
+            "tryhackme.com"
+        ],
+        "registrar": "NAMECHEAP INC",
+        "whois_server": "whois.namecheap.com",
+        "referral_url": null,
+        "updated_date": [
+            "2021-05-01T19:43:23",
+            "2021-05-01T19:43:23.310000"
+        ],
+        "creation_date": "2018-07-05T19:46:15",
+        "expiration_date": "2027-07-05T19:46:15",
+        "name_servers": [
+            "KIP.NS.CLOUDFLARE.COM",
+            "UMA.NS.CLOUDFLARE.COM",
+            "kip.ns.cloudflare.com",
+            "uma.ns.cloudflare.com"
+        ],
+        "status": "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+        "emails": [
+            "abuse@namecheap.com",
+            "a70a4ff6d25041a48378997194f9e834.protect@withheldforprivacy.com"
+        ],
+        "dnssec": "unsigned",
+        "name": "Redacted for Privacy",
+        "org": "Privacy service provided by Withheld for Privacy ehf",
+        "address": "Kalkofnsvegur 2",
+        "city": "Reykjavik",
+        "state": "Capital Region",
+        "registrant_postal_code": "101",
+        "country": "IS"
+    }
+}
